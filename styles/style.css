@@ -50,7 +50,7 @@ nav .active {
 /* Banner Section */
 
 .banner-section {
-  object-fit: cover;
+  /* object-fit: cover; */
   max-width: 1170px;
   height: 500px;
   margin: 0 auto;
