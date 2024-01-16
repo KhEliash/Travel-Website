@@ -43,7 +43,7 @@ nav a {
 nav .active {
   color: #ff5400;
 }
-.hambarg{
+.hambarg {
   visibility: hidden;
 }
 
@@ -54,13 +54,13 @@ nav .active {
   max-width: 1170px;
   height: 500px;
   margin: 0 auto;
-position: relative;
+  position: relative;
   text-align: center;
   border-radius: 16px;
 }
-.bac-img{
-width: 1170px;
-border-radius: 16px;
+.bac-img {
+  width: 1170px;
+  border-radius: 16px;
 }
 .background {
   position: absolute;
@@ -250,7 +250,7 @@ li {
 }
 .choose-cards {
   display: flex;
-   align-items: center;
+  align-items: center;
   justify-content: center;
   gap: 20px;
 }
